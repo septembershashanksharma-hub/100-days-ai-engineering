@@ -7,6 +7,20 @@
 ## Plan
 - The plan is divided into 9 Phases. 9th one being deploying 2 projects.
 - The phases starts from basics like Git/Python/SQL and goes all the way to Production/System design/Evals.
-- I have set 80% passing marks for myself to get to the next Phase.
+- I have set 80% passing marks standard for myself to get to the next Phase.
+
 ## Repo structure
+phase-1-python/day01/
+phase-1-python/day02/
+.
+.
+phase-2-sql/day13/
+.
+.
+phase-3-API-Docker-CLI/day20/
+.
+.
+
+
 ## Progress
+Installed git, uv, python, and made connection with my local folder and git repository
