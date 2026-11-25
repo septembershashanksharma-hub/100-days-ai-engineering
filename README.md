@@ -22,7 +22,8 @@ phase-3-API-Docker-CI/day20/
 .
 
 
-## Progress
-Installed git, uv, python, and made connection with my local folder and git repository.
-Did various commits and learned the way how the connection between PC and Github works.
-Also learned about the way to work in Branches and why any change is done in branches and not on the main. 
+## Progress (Live)
+- Installed git, uv, python, and made connection with my local folder and git repository.
+- Did various commits and learned the way how the connection between PC and Github works.
+- Also learned about the way to work in Branches and why any change is done in branches and not on the main. 
+- Learned the Core Data Structures, since they are helpful while dealing with APIs. Also learnt the BigO.
