@@ -17,10 +17,12 @@ phase-1-python/day02/
 phase-2-sql/day13/
 .
 .
-phase-3-API-Docker-CLI/day20/
+phase-3-API-Docker-CI/day20/
 .
 .
 
 
 ## Progress
-Installed git, uv, python, and made connection with my local folder and git repository
+Installed git, uv, python, and made connection with my local folder and git repository.
+Did various commits and learned the way how the connection between PC and Github works.
+Also learned about the way to work in Branches and why any change is done in branches and not on the main. 
