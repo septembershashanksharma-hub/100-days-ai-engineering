@@ -1,5 +1,5 @@
 import sys
 import platform
 
-sys.version
-platform.system()
+print(sys.version)
+print(platform.system())
